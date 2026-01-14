@@ -142,7 +142,9 @@ Deployment is optional depending on evaluation requirements.
 ---
 # LINKS
 Live App: https://huggingface.co/spaces/Phyllis10/email-prioritization-dashboard
-Source Code: (your GitHub repo link)
+
+Source Code: (https://github.com/Phyllis-cell/email-prioritization-dashboard)
+
 Video Demo: (Loom link — “coming soon” for now)
 
 
